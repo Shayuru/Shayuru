@@ -41,3 +41,14 @@ Tools
 Cloud
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+As a software engineer I like to concentrate in solving problems with the right tool, I think everybody needs to be aware of the "golden hammer" antipattern, there isn't a "silver bullet" in software development. Programming languages are just another tool, if I do not know how to use a tool, technology or a programming languege I study it.
+
+🌱 I’m currently learning/practicing: 
+- Mean Stack
+- React
+
+I created a Github organization to group some projects:
+
+https://github.com/debranax
