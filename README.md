@@ -46,10 +46,12 @@ Cloud
 
 As a software engineer I like to concentrate in solving problems with the right tool, I think everybody needs to be aware of the "golden hammer" antipattern, there isn't a "silver bullet" in software development. Programming languages are just another tool, if I do not know how to use a tool, technology or a programming languege I study it.
 
-🌱 I’m currently learning/practicing: 
+🌱 I’m currently practicing: 
 - Mean Stack
 - React
 
 I created a Github organization to group some projects:
 
 https://github.com/debranax
+
+Never Stop Learning: Stay Relevant, Reinvent Yourself, and Thrive
